@@ -16,7 +16,7 @@ public class User {
     @NotNull
     private double playMoney;
 
-//  private List<Cryptocoin> coins;
+//  private Map<Cryptocoin, double> coins;
 //  private List<Transaction> history;
 
     public User(
