@@ -13,4 +13,3 @@ public class HomeController {
         return "https://hodl-invest-server.herokuapp.com/api/v1/users/ to get all users.";
     }
 }
-
